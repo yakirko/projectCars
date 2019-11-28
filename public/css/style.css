@@ -1,0 +1,38 @@
+.Categories-boxs{
+    
+    margin-bottom: 15px;
+}
+.Categories-boxs-images{
+    height: 150px;
+    width: auto;
+}
+
+.Categories-boxs p{
+    height: 80px;
+}
+
+p{
+    font-size: 16px !important;
+}
+
+.text-shadow{
+    font-size: 45px !important;
+    text-decoration: underline;
+    color: rgba(0,0,0,0.6);
+    text-shadow: 2px 8px 6px rgba(0,0,0,0.4), 0px -5px 35px rgba(255,255,255,0.4);  
+}
+
+.container-homeDIV{
+    background-image:url("http://localhost:8080/projectCars/public/images/homeBackgroung999.jpg");
+    background-repeat: no-repeat;
+    opacity: 0.8;
+    background-position: bottom;
+    background-size: contain;
+    width: 1050px !important;
+    height:600px;
+}
+
+.innerdivHome{
+    opacity : none;
+    
+}
